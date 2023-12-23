@@ -1,0 +1,21 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./guessing_game/Cargo.toml",
+        "./hello_cargo/Cargo.toml",
+        "./variables/Cargo.toml",
+        "./data_types/Cargo.toml",
+        "./functions/Cargo.toml",
+        "./control_flow/Cargo.toml",
+        "./loops/Cargo.toml",
+        "./ownership/Cargo.toml",
+        "./references_and_borrowing/Cargo.toml",
+        "./slices/Cargo.toml",
+        "./structs/Cargo.toml",
+        "./rectangles/Cargo.toml",
+        "./methods/Cargo.toml",
+        "./enums/Cargo.toml",
+        "./modules/Cargo.toml",
+    ],
+    "todohighlight.isEnable": true,
+    "rust-analyzer.showUnlinkedFileNotification": false,
+}
